@@ -10,7 +10,7 @@
   <li>Has a black cat named Camellia as a helper.</li>
 </ul>
 
-<h2>Number of visits on my profile</h2>
+<h2 style= "display:flex; align-items:center; " >Number of visits on my profile</h2>
 <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=159670&s=36' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>
 
 <!--
