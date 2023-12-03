@@ -1,3 +1,14 @@
+
+<h1>Welcome to MinotaurTheGreat's profile!</h1>
+<h2>Quick trivia</h2>
+<ul>
+  <li> My real name is Tavi</li>
+  <li>Student at the Romanian-American University</li>
+  <li>Currently in the second year of Informatics for Economics</li>
+  <li>Burse student</li>
+  <li>Currently learning web development and game development</li>
+  <li>Has a black cat named Camellia as a helper.</li>
+</ul>
 <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=159670&s=36' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>
 
 <!--
