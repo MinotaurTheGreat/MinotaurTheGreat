@@ -1,6 +1,6 @@
 
-<h1>Welcome to MinotaurTheGreat's profile!</h1>
-<h2>Quick trivia</h2>
+<h1 align='center'>Welcome to MinotaurTheGreat's profile!</h1>
+<h2 align='center'>Quick trivia</h2>
 <ul>
   <li> My real name is Tavi</li>
   <li>Student at the Romanian-American University</li>
