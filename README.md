@@ -1,7 +1,7 @@
 
 <h1 align='center'>Welcome to MinotaurTheGreat's profile!</h1>
 <h2 align='center'>Quick trivia</h2>
-<ul align='center'>
+<ul>
   <li> My real name is Tavi</li>
   <li>Student at the Romanian-American University</li>
   <li>Currently in the second year of Informatics for Economics</li>
