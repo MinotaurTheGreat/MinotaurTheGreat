@@ -7,7 +7,7 @@
   <li>Currently in the second year of Informatics for Economics</li>
   <li>Burse student</li>
   <li>Currently learning web development and game development</li>
-  <li>Stressing over the economy of bread.</li>
+  <li>Admirer of Tatsuki Fujimoto.</li>
 </ul>
 <div align='center'> <img src='https://static.wikia.nocookie.net/meltyblood/images/1/18/Neco_Arc_Chaos_Special_Old.png/revision/latest/scale-to-width-down/250?cb=20181013194202' > </div>
 <h2 align='center'> Total Visitors </h2>
